@@ -2,7 +2,7 @@
 - ![Ubuntu 64-bit - VMware Workstation 17 Player (Non-commercial use only) 08_06_2023 13_07_20](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/5c83df07-4426-46f6-93f6-a53f595d4984)
 - install apache2
 - ![Ubuntu 64-bit - VMware Workstation 17 Player (Non-commercial use only) 08_06_2023 13_08_03](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/b853818e-35d8-4e86-818d-441c21d75875)
-- cek apakah jalan apachev dan jalankan ip computer kita
+- cek apakah jalan apache2 dan jalankan ip computer kita
 - ![Editing devops17-dumbways-galantixa_apache md at main · galantixa_devops17-dumbways-galantixa · GitHub - Google Chrome 08_06_2023 13_09_00](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/f631ac68-9615-4756-98fd-60badf2f4637)
 - ![Ubuntu 64-bit - VMware Workstation 17 Player (Non-commercial use only) 08_06_2023 13_09_26](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/771da7cb-2d6a-4930-a67f-8ec0ecd7d98d)
 - gunakan node v14
