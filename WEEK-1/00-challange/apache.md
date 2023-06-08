@@ -9,7 +9,7 @@
 - ![apa perbedaan Shell Bash dan Shell sh - Brainly co id - Google Chrome 08_06_2023 13_09_49](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/3f2a5d1f-c169-4219-b31a-5162d610ef68)
 - install localtunnel
 - ![Ubuntu 64-bit - VMware Workstation 17 Player (Non-commercial use only) 08_06_2023 13_10_12](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/b715ec25-df64-412e-baa5-4d3bb7bc4f39)
-- note!!! pastikan cari tahu dulu ip public dengan curl ifconfig.co untuk nanti dimasukan ke endpoint IP lalu klik submit
+- note!!! pastikan cari tahu dulu ip public dengan curl ifconfig.co untuk nanti dimasukan ke endpoint IP lalu klik submit. saya lupa screenshot:(
 - ![Apache2 Ubuntu Default Page_ It works - Google Chrome 08_06_2023 13_19_18](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/c7ad7e5b-4aa9-49e9-8e3d-8031c8ef3f73)
 - lt  --port 80 --subdomain servergweh
 - ![Ubuntu 64-bit - VMware Workstation 17 Player (Non-commercial use only) 08_06_2023 13_11_00](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/49154867-cd3f-42ef-b54f-2875f3c54376)
