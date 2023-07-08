@@ -22,4 +22,8 @@
 -  ![WaysHub - Google Chrome 08_07_2023 17_23_33](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/92653001-7174-4f50-b7e8-50621598fc62)
 -  ![WaysHub - Google Chrome 08_07_2023 17_23_53](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/d2442298-85ac-48dc-ac76-f37b548fbd33)
 
+## ***ALERT!!!*** Jika sudah tersertifikasi https rubah juga konfigurasi file ```api.js``` dengan jalankan ```sudo nano  wayshub-frontend/src/config/api.js``` dengan format ```https://api.<nama>.studentdumbways.my.id```
+- ![Captures 08_07_2023 17_37_17](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/d1adecc9-3bcc-40f9-83eb-1450653f69eb)
+
+  
 ### YAUDAH!
