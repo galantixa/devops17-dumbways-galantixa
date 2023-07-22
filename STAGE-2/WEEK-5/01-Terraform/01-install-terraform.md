@@ -14,7 +14,7 @@
 - Buat folder dan file terpisah untuk script membuat VM 
 - Masuk code editor atau bisa juga mengedit file memalui terminal dengan command vi atau nano
 - ![Screenshot from 2023-07-19 11-20-58](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/0ab9a3d3-cbf4-40b3-926a-3cdbbbdf4c46)
-- Edit dan buat script untuk membuat 3 VM appserver, gatewaym, monitoring dengan template sebagai berikut!!!
+- Edit dan buat script untuk membuat 3 VM appserver, gateway, monitoring dengan template sebagai berikut!!!
 - Bisa diperbanyak sesuai kebutuhan
 - ```
   terraform {
