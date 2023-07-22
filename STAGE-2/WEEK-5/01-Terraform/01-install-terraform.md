@@ -14,10 +14,41 @@
 - Buat folder dan file terpisah untuk script membuat VM 
 - Masuk code editor atau bisa juga mengedit file memalui terminal dengan command vi atau nano
 - ![Screenshot from 2023-07-19 11-20-58](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/0ab9a3d3-cbf4-40b3-926a-3cdbbbdf4c46)
-- Edit dan buat script untuk membuat 3 VM appserver, gatewaym, monitorin
-- ![code](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/689d3727-cbc0-4552-a526-9850f913d4f3)
-- ![code1](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/c549d935-6ab9-47f5-ba4f-4fdd49c850d7)
-- ![3](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/eaab8fff-f22f-45d4-9e6c-6a8eafb0e5ed)
+- Edit dan buat script untuk membuat 3 VM appserver, gatewaym, monitoring dengan template sebagai berikut!!!
+- Bisa diperbanyak sesuai kebutuhan
+- ```
+  terraform {
+    required_providers {
+      idcloudhost = {
+        source = "bapung/idcloudhost"
+        version = "0.1.3"
+      }
+    }
+  }
+  
+  provider "idcloudhost" {
+    auth_token = 
+  }
+  
+  resource "idcloudhost_vm" "fajarapp" {
+    name = "fajar-app"
+    os_name = "ubuntu"
+    os_version = "20.04"
+    vcpu = "2"
+    memory = "1024"
+    disks = "20"
+    username = "app"
+    initial_password = 
+    public_key = 
+    billing_account_id = 
+  }
+  
+  resource "idcloudhost_floating_ip" "ip-fajar" {
+    name = "appserverIP"
+    billing_account_id = "
+    assigned_to = idcloudhost_vm.fajarapp.id
+  }
+  ```
 - jalakan pada setiap folder ```terraform init```
 - ```terraform plan && terraform apply```
 - ![Screenshot from 2023-07-19 11-25-16](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/d8375db2-fb66-4347-92ad-afad29fe5af9)
