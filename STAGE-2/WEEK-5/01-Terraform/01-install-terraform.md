@@ -53,3 +53,5 @@
 - ```terraform plan && terraform apply```
 - ![Screenshot from 2023-07-19 11-25-16](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/d8375db2-fb66-4347-92ad-afad29fe5af9)
 - ![Screenshot from 2023-07-19 12-21-56](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/3925bab5-3bde-48a5-b0a2-d4f4a6025789)
+
+### Untuk installasi yang lebih lengkat bisa di cek di dokumentasi resmi [TERRAFORM](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
