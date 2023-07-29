@@ -1,0 +1,11 @@
+## Docker compose wayshub
+-  Install nodejs 14 ansible playbook
+-  ![code21](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/998117b4-f5e9-4a0d-94d7-5f82d4aca506)
+-  ***Note!!!*** sebelumnya saya sudah menambahkan Dockerfile dalam repository wayshub untuk menjalankan docker compose tadi
+-  Buat file ```docker-compose.yml```
+-  ![code22](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/fc79fb55-a1e0-47f0-9fe3-1e4efd89d3b0)
+-  Ansible playbook, dengan tasks clone repo, copy file ```docker-compose.yml```, jalankan docker compose
+-  ![code23](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/d931d560-aa86-4256-92e7-e3ce25bebf22)
+-  ![Screenshot from 2023-07-22 17-33-29](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/8574addf-d7e6-4077-958f-faa8659e88ba)
+-  ![Screenshot from 2023-07-22 17-35-24](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/644954d0-da92-4adc-8019-9c5517c84cf5)
+-  ![Screenshot from 2023-07-22 17-37-09](https://github.com/galantixa/devops17-dumbways-galantixa/assets/92994294/66f11768-7020-4949-a0bf-f662ea63eaa1)
